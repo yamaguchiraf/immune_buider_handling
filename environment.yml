@@ -1,0 +1,21 @@
+name: immune
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.10
+  - numpy
+  - scipy>=1.6
+  - einops>=0.3
+  - requests
+  - pdbfixer
+  - openmm
+  - anarci
+  - pip
+  - pip:
+      - ImmuneBuilder
+      - torch==2.8.0+cu126
+      - torchvision==0.23.0+cu126
+      - torchaudio==2.8.0+cu126
+      - --extra-index-url https://download.pytorch.org/whl/cu126
+
