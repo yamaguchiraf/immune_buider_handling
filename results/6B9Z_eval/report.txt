@@ -1,0 +1,34 @@
+Reference: data/6B9Z_fab.pdb
+Predicted: results/trastuzumab_ib.pdb
+
+== RMSD (全体, Heavy鎖のみ) ==
+Heavy chain RMSD: 13.379 Å
+
+== RMSD (全体, PyMOL align) ==
+Overall RMSD (PyMOL): 0.306 Å
+
+== VH–VL 配向差 ==
+VH-VL_dist: 0.015
+VH-VL_angle: 32.568
+
+== 残基ごとの誤差 (Heavy 鎖, Cα距離) ==
+Residue 1: 45.613 Å
+Residue 2: 41.981 Å
+Residue 3: 42.356 Å
+Residue 4: 38.676 Å
+Residue 5: 41.417 Å
+Residue 6: 39.485 Å
+Residue 7: 42.281 Å
+Residue 8: 42.495 Å
+Residue 9: 42.484 Å
+Residue 10: 46.075 Å
+Residue 11: 46.503 Å
+Residue 12: 46.451 Å
+Residue 13: 46.775 Å
+Residue 14: 46.741 Å
+Residue 15: 43.634 Å
+Residue 16: 44.670 Å
+Residue 17: 41.679 Å
+Residue 18: 40.330 Å
+Residue 19: 37.934 Å
+Residue 20: 37.416 Å
